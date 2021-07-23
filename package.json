@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "ethers": "^5.0.12"
+    "ethers": "^5.4.1"
   },
   "devDependencies": {
     "eslint": "^7.9.0",
@@ -14,11 +14,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pedrobergamini/uni-sushi-flashloaner"
+    "url": "git+https://github.com/pedrobergamini/uni-sushi-flashloaner.git"
   },
-  "keywords": ["defi", "ethereum", "flashloans"],
+  "keywords": [
+    "defi",
+    "ethereum",
+    "flashloans"
+  ],
   "author": "Pedro Bergamini",
   "bugs": {
     "url": "https://github.com/pedrobergamini/uni-sushi-flashloaner/issues"
+  },
+  "homepage": "https://github.com/pedrobergamini/uni-sushi-flashloaner#readme",
+  "description": "Uni-Sushi Flash Loaner",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
